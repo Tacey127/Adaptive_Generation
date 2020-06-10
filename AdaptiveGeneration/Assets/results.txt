@@ -1,0 +1,841 @@
+Testificate
+Seed, 43
+Total Session Time, 137.84
+Rooms Generated
+Expected Time In All Rooms, 30
+Total Time Spent In All Rooms, 123.593
+Number Of Rooms Past Expected Time, 2
+name, CoinRoomBullet
+branchDepth, 6
+expectedTime, 5
+completedTime, 0.56
+name, PuzzleRoom
+branchDepth, 5
+expectedTime, 5
+completedTime, 5.399996
+name, CoinRoomBig
+branchDepth, 2
+expectedTime, 5
+completedTime, 1.859999
+name, PuzzleRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 113.053
+name, BigPuzzleRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 2.719998
+name, FinishRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 0
+Testificate
+Seed, 43
+Total Session Time, 68.9
+Rooms Generated
+Expected Time In All Rooms, 30
+Total Time Spent In All Rooms, 51.68049
+Number Of Rooms Past Expected Time, 3
+name, CoinRoomBullet
+branchDepth, 6
+expectedTime, 5
+completedTime, 0.26
+name, PuzzleRoom
+branchDepth, 5
+expectedTime, 5
+completedTime, 15.18016
+name, CoinRoomBig
+branchDepth, 2
+expectedTime, 5
+completedTime, 16.62019
+name, PuzzleRoom
+branchDepth, 1
+expectedTime, 5
+completedTime, 14.70015
+name, BigPuzzleRoom
+branchDepth, -2
+expectedTime, 5
+completedTime, 4.919996
+name, FinishRoom
+branchDepth, -2
+expectedTime, 5
+completedTime, 0
+Testificate
+Seed, 43
+Total Session Time, 336.68
+Rooms Generated
+Expected Time In All Rooms, 30
+Total Time Spent In All Rooms, 308.9162
+Number Of Rooms Past Expected Time, 2
+name, CoinRoomBullet
+branchDepth, 6
+expectedTime, 5
+completedTime, 0.34
+name, PuzzleRoom
+branchDepth, 5
+expectedTime, 5
+completedTime, 242.795
+name, CoinRoomBig
+branchDepth, 2
+expectedTime, 5
+completedTime, 2.579998
+name, PuzzleRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 59.98118
+name, BigPuzzleRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 3.219998
+name, FinishRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 0
+Testificate
+Seed, 666
+Total Session Time, 478.72
+Rooms Generated
+Expected Time In All Rooms, 90
+Total Time Spent In All Rooms, 220.8174
+Number Of Rooms Past Expected Time, 4
+name, CoinRoomBig
+branchDepth, 5
+expectedTime, 5
+completedTime, 2.859998
+name, CoinRoomBig
+branchDepth, 3
+expectedTime, 5
+completedTime, 2.739998
+name, CoinRoomBullet
+branchDepth, 3
+expectedTime, 5
+completedTime, 0.6599999
+name, CoinRoomBig
+branchDepth, 1
+expectedTime, 5
+completedTime, 2.479998
+name, BigPuzzleRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 77.23905
+name, CoinRoomBig
+branchDepth, -3
+expectedTime, 5
+completedTime, 1.779999
+name, BigShooterRoom
+branchDepth, -4
+expectedTime, 5
+completedTime, 5.219996
+name, BigPuzzleRoom
+branchDepth, -6
+expectedTime, 5
+completedTime, 83.35802
+name, BigShooterRoom
+branchDepth, -8
+expectedTime, 5
+completedTime, 3.799997
+name, BigShooterRoom
+branchDepth, -10
+expectedTime, 5
+completedTime, 4.819996
+name, BigShooterRoom
+branchDepth, -11
+expectedTime, 5
+completedTime, 2.379998
+name, CoinRoomBig
+branchDepth, -12
+expectedTime, 5
+completedTime, 1.679999
+name, BigShooterRoom
+branchDepth, -13
+expectedTime, 5
+completedTime, 3.659997
+name, CoinRoomBig2
+branchDepth, -15
+expectedTime, 5
+completedTime, 3.019998
+name, CoinRoomBig
+branchDepth, -14
+expectedTime, 5
+completedTime, 3.579997
+name, BigShooterRoom
+branchDepth, -12
+expectedTime, 5
+completedTime, 0.3
+name, BigPuzzleRoom
+branchDepth, -6
+expectedTime, 5
+completedTime, 21.2403
+name, FinishRoom
+branchDepth, -3
+expectedTime, 5
+completedTime, 0
+Testificate
+Seed, 666
+Total Session Time, 183.7776
+Rooms Generated
+Expected Time In All Rooms, 50
+Total Time Spent In All Rooms, 122.2618
+Number Of Rooms Past Expected Time, 4
+name, CoinRoomBig
+branchDepth, 5
+expectedTime, 5
+completedTime, 4.499997
+name, CoinRoomBig
+branchDepth, 3
+expectedTime, 5
+completedTime, 2.719998
+name, CoinRoomBullet
+branchDepth, 3
+expectedTime, 5
+completedTime, 0.9999996
+name, CoinRoomBig
+branchDepth, 1
+expectedTime, 5
+completedTime, 3.179998
+name, BigPuzzleRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 49.18093
+name, CoinRoomBig
+branchDepth, -3
+expectedTime, 5
+completedTime, 3.339998
+name, BigShooterRoom
+branchDepth, -4
+expectedTime, 5
+completedTime, 5.199996
+name, BigPuzzleRoom
+branchDepth, -6
+expectedTime, 5
+completedTime, 46.96088
+name, BigShooterRoom
+branchDepth, -8
+expectedTime, 5
+completedTime, 6.179995
+name, FinishRoom
+branchDepth, -3
+expectedTime, 5
+completedTime, 0
+Testificate
+Seed, 666
+Total Session Time, 1035.58
+Rooms Generated
+Expected Time In All Rooms, 105
+Total Time Spent In All Rooms, 864.8743
+Number Of Rooms Past Expected Time, 5
+name, CoinRoomBig
+branchDepth, 5
+expectedTime, 5
+completedTime, 3.579997
+name, CoinRoomBig
+branchDepth, 3
+expectedTime, 5
+completedTime, 3.779997
+name, CoinRoomBullet
+branchDepth, 3
+expectedTime, 5
+completedTime, 2.279999
+name, CoinRoomBig
+branchDepth, 1
+expectedTime, 5
+completedTime, 2.579998
+name, BigPuzzleRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 260.9152
+name, CoinRoomBig
+branchDepth, -3
+expectedTime, 5
+completedTime, 2.139999
+name, BigShooterRoom
+branchDepth, -4
+expectedTime, 5
+completedTime, 7.959993
+name, BigPuzzleRoom
+branchDepth, -6
+expectedTime, 5
+completedTime, 44.74083
+name, BigShooterRoom
+branchDepth, -8
+expectedTime, 5
+completedTime, 4.259997
+name, BigShooterRoom
+branchDepth, -10
+expectedTime, 5
+completedTime, 3.239998
+name, BigShooterRoom
+branchDepth, -11
+expectedTime, 5
+completedTime, 3.659997
+name, CoinRoomBig
+branchDepth, -12
+expectedTime, 5
+completedTime, 2.819998
+name, BigShooterRoom
+branchDepth, -13
+expectedTime, 5
+completedTime, 2.939998
+name, CoinRoomBig2
+branchDepth, -15
+expectedTime, 5
+completedTime, 2.559998
+name, BigShooterRoom
+branchDepth, -13
+expectedTime, 5
+completedTime, 1.199999
+name, CoinRoomBullet
+branchDepth, -13
+expectedTime, 5
+completedTime, 0.5000001
+name, BigPuzzleRoom
+branchDepth, -6
+expectedTime, 5
+completedTime, 130.051
+name, PuzzleRoom
+branchDepth, -6
+expectedTime, 5
+completedTime, 384.5072
+name, CoinRoomBig2
+branchDepth, -7
+expectedTime, 5
+completedTime, 0.8799997
+name, CoinRoomBullet
+branchDepth, -6
+expectedTime, 5
+completedTime, 0.28
+name, FinishRoom
+branchDepth, -2
+expectedTime, 5
+completedTime, 0
+Testificate
+Seed, 43
+Total Session Time, 37.62
+Rooms Generated
+Expected Time In All Rooms, 35
+Total Time Spent In All Rooms, 20.55999
+Number Of Rooms Past Expected Time, 1
+name, CoinRoomBullet
+branchDepth, 6
+expectedTime, 5
+completedTime, 0.3
+name, PuzzleRoom
+branchDepth, 5
+expectedTime, 5
+completedTime, 4.739996
+name, CoinRoomBig
+branchDepth, 2
+expectedTime, 5
+completedTime, 2.039999
+name, PuzzleRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 3.119998
+name, BigPuzzleRoom
+branchDepth, 0
+expectedTime, 5
+completedTime, 7.919993
+name, CoinRoomBig2
+branchDepth, -1
+expectedTime, 5
+completedTime, 2.439998
+name, FinishRoom
+branchDepth, -2
+expectedTime, 5
+completedTime, 0
+Testificate
+Seed, 666
+Total Session Time, 424.02
+Rooms Generated
+Expected Time In All Rooms, 50
+Total Time Spent In All Rooms, 343.0619
+Number Of Rooms Past Expected Time, 2
+name, CoinRoomBig
+branchDepth, 5
+expectedTime, 5
+completedTime, 1.999999
+name, CoinRoomBullet
+branchDepth, 5
+expectedTime, 5
+completedTime, 0.56
+name, BigRoom
+branchDepth, 3
+expectedTime, 5
+completedTime, 0.3
+name, PuzzleRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 321.3419
+name, BigShooterRoom
+branchDepth, 0
+expectedTime, 5
+completedTime, 4.459997
+name, BigShooterRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 5.739995
+name, CoinRoomBig
+branchDepth, -4
+expectedTime, 5
+completedTime, 2.959998
+name, CoinRoomBig2
+branchDepth, -5
+expectedTime, 5
+completedTime, 2.259999
+name, BigShooterRoom
+branchDepth, -7
+expectedTime, 5
+completedTime, 3.439997
+name, FinishRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 0
+Testificate
+Seed, 666
+Total Session Time, 107.14
+Rooms Generated
+Expected Time In All Rooms, 50
+Total Time Spent In All Rooms, 65.58045
+Number Of Rooms Past Expected Time, 4
+name, CoinRoomBig
+branchDepth, 5
+expectedTime, 5
+completedTime, 1.859999
+name, CoinRoomBig2
+branchDepth, 4
+expectedTime, 5
+completedTime, 1.879999
+name, CoinRoomBullet
+branchDepth, 4
+expectedTime, 5
+completedTime, 0.9199997
+name, BigShooterRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 3.899997
+name, PuzzleRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 12.6801
+name, CoinRoomBig2
+branchDepth, 0
+expectedTime, 5
+completedTime, 3.799997
+name, BigPuzzleRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 17.66021
+name, BigRoom
+branchDepth, -4
+expectedTime, 5
+completedTime, 10.68005
+name, PuzzleRoom
+branchDepth, -3
+expectedTime, 5
+completedTime, 12.20009
+name, FinishRoom
+branchDepth, -4
+expectedTime, 5
+completedTime, 0
+Testificate
+Seed, 666
+Total Session Time, 68.04
+Rooms Generated
+Expected Time In All Rooms, 40
+Total Time Spent In All Rooms, 34.94017
+Number Of Rooms Past Expected Time, 1
+name, CoinRoomBig
+branchDepth, 5
+expectedTime, 5
+completedTime, 2.559998
+name, CoinRoomBig2
+branchDepth, 4
+expectedTime, 5
+completedTime, 2.599998
+name, CoinRoomBullet
+branchDepth, 4
+expectedTime, 5
+completedTime, 0.7599998
+name, BigShooterRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 4.239997
+name, PuzzleRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 16.36018
+name, CoinRoomBig2
+branchDepth, 0
+expectedTime, 5
+completedTime, 3.579997
+name, BigPuzzleRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 4.839996
+name, FinishRoom
+branchDepth, -4
+expectedTime, 5
+completedTime, 0
+Testificate
+Seed, 666
+Total Session Time, 162.1
+Rooms Generated
+Expected Time In All Rooms, 50
+Total Time Spent In All Rooms, 120.1011
+Number Of Rooms Past Expected Time, 4
+name, CoinRoomBig
+branchDepth, 5
+expectedTime, 5
+completedTime, 1.859999
+name, CoinRoomBig2
+branchDepth, 4
+expectedTime, 5
+completedTime, 1.899999
+name, CoinRoomBullet
+branchDepth, 4
+expectedTime, 5
+completedTime, 0.8199998
+name, BigShooterRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 3.279998
+name, PuzzleRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 25.7404
+name, CoinRoomBig2
+branchDepth, 0
+expectedTime, 5
+completedTime, 2.099999
+name, BigPuzzleRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 6.879994
+name, BigRoom
+branchDepth, -4
+expectedTime, 5
+completedTime, 10.06004
+name, PuzzleRoom
+branchDepth, -3
+expectedTime, 5
+completedTime, 67.46069
+name, FinishRoom
+branchDepth, -4
+expectedTime, 5
+completedTime, 0
+Testificate
+Seed, 666
+Total Session Time, 148.78
+Rooms Generated
+Expected Time In All Rooms, 50
+Total Time Spent In All Rooms, 95.92123
+Number Of Rooms Past Expected Time, 3
+name, CoinRoomBig
+branchDepth, 5
+expectedTime, 5
+completedTime, 3.679997
+name, CoinRoomBig2
+branchDepth, 4
+expectedTime, 5
+completedTime, 2.079999
+name, CoinRoomBullet
+branchDepth, 4
+expectedTime, 5
+completedTime, 0.6
+name, BigShooterRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 3.959997
+name, PuzzleRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 34.6406
+name, CoinRoomBig2
+branchDepth, 0
+expectedTime, 5
+completedTime, 2.899998
+name, BigPuzzleRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 4.239997
+name, BigRoom
+branchDepth, -3
+expectedTime, 5
+completedTime, 7.099994
+name, PuzzleRoom
+branchDepth, -2
+expectedTime, 5
+completedTime, 36.72065
+name, FinishRoom
+branchDepth, -4
+expectedTime, 5
+completedTime, 0
+Testificate
+Seed, 666
+Total Session Time, 102.34
+Rooms Generated
+Expected Time In All Rooms, 50
+Total Time Spent In All Rooms, 56.62032
+Number Of Rooms Past Expected Time, 4
+name, CoinRoomBig
+branchDepth, 5
+expectedTime, 5
+completedTime, 1.839999
+name, CoinRoomBig2
+branchDepth, 4
+expectedTime, 5
+completedTime, 2.219999
+name, CoinRoomBullet
+branchDepth, 4
+expectedTime, 5
+completedTime, 0.7399998
+name, BigShooterRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 3.439997
+name, PuzzleRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 14.42014
+name, CoinRoomBig2
+branchDepth, 0
+expectedTime, 5
+completedTime, 2.399998
+name, BigPuzzleRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 6.399995
+name, BigRoom
+branchDepth, -4
+expectedTime, 5
+completedTime, 15.58017
+name, PuzzleRoom
+branchDepth, -3
+expectedTime, 5
+completedTime, 9.580029
+name, FinishRoom
+branchDepth, -4
+expectedTime, 5
+completedTime, 0
+Testificate
+Seed, 666
+Total Session Time, 107.46
+Rooms Generated
+Expected Time In All Rooms, 40
+Total Time Spent In All Rooms, 49.60059
+Number Of Rooms Past Expected Time, 1
+name, CoinRoomBig
+branchDepth, 5
+expectedTime, 5
+completedTime, 1.839999
+name, CoinRoomBig2
+branchDepth, 4
+expectedTime, 5
+completedTime, 2.159999
+name, CoinRoomBullet
+branchDepth, 4
+expectedTime, 5
+completedTime, 0.52
+name, BigShooterRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 4.979996
+name, PuzzleRoom
+branchDepth, 2
+expectedTime, 5
+completedTime, 34.4606
+name, CoinRoomBig
+branchDepth, 0
+expectedTime, 5
+completedTime, 2.359998
+name, CoinRoomBig
+branchDepth, -1
+expectedTime, 5
+completedTime, 3.279998
+name, FinishRoom
+branchDepth, -2
+expectedTime, 5
+completedTime, 0
+Testificate
+Seed, 666
+Total Session Time, 169.66
+Rooms Generated
+Expected Time In All Rooms, 45
+Total Time Spent In All Rooms, 92.18109
+Number Of Rooms Past Expected Time, 5
+name, CoinRoomBig2
+branchDepth, 6
+expectedTime, 5
+completedTime, 2.579998
+name, BigPuzzleRoom
+branchDepth, 5
+expectedTime, 5
+completedTime, 28.28046
+name, BigRoomPlatform
+branchDepth, 3
+expectedTime, 5
+completedTime, 9.860036
+name, BigShooterRoom
+branchDepth, 3
+expectedTime, 5
+completedTime, 22.80033
+name, BigPuzzleRoom
+branchDepth, 0
+expectedTime, 5
+completedTime, 20.38028
+name, CoinRoomBig
+branchDepth, -1
+expectedTime, 5
+completedTime, 2.839998
+name, BigRoomPlatform
+branchDepth, -2
+expectedTime, 5
+completedTime, 5.139996
+name, CoinRoomBullet
+branchDepth, 0
+expectedTime, 5
+completedTime, 0.3
+name, FinishRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 0
+NewFloor
+IsShrinking
+Seed, 6444
+Total Session Time, 67.24
+Rooms Generated
+Expected Time In All Rooms, 20
+Total Time Spent In All Rooms, 26.96034
+Number Of Rooms Past Expected Time, 1
+name, BigRoomPlatform
+branchDepth, 1
+expectedTime, 5
+completedTime, 23.44035
+name, CoinRoomBullet
+branchDepth, 1
+expectedTime, 5
+completedTime, 0.58
+name, BigShooterRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 2.939998
+name, FinishRoom
+branchDepth, -3
+expectedTime, 5
+completedTime, 0
+NewFloor
+IsShrinking
+Seed, 4435
+Total Session Time, 21.26
+Rooms Generated
+Expected Time In All Rooms, 10
+Total Time Spent In All Rooms, 8.460004
+Number Of Rooms Past Expected Time, 1
+name, BigShooterRoom
+branchDepth, 0
+expectedTime, 5
+completedTime, 8.460004
+name, FinishRoom
+branchDepth, 0
+expectedTime, 5
+completedTime, 0
+NewFloor
+IsShrinking
+Seed, 9418
+Total Session Time, 51.86559
+Rooms Generated
+Expected Time In All Rooms, 10
+Total Time Spent In All Rooms, 16.74019
+Number Of Rooms Past Expected Time, 1
+name, BigShooterRoom
+branchDepth, -1
+expectedTime, 5
+completedTime, 16.74019
+name, FinishRoom
+branchDepth, -2
+expectedTime, 5
+completedTime, 0
+NewFloor
+IsShrinking
+Seed, 8986
+Total Session Time, 78.686
+Rooms Generated
+Expected Time In All Rooms, 25
+Total Time Spent In All Rooms, 55.46056
+Number Of Rooms Past Expected Time, 3
+name, PuzzleRoom
+branchDepth, 7
+expectedTime, 5
+completedTime, 24.98038
+name, PuzzleRoom
+branchDepth, 6
+expectedTime, 5
+completedTime, 6.219995
+name, PuzzleRoom
+branchDepth, 4
+expectedTime, 5
+completedTime, 16.82019
+name, BigShooterRoom
+branchDepth, 0
+expectedTime, 5
+completedTime, 3.479997
+name, BigRoomPlatform
+branchDepth, -2
+expectedTime, 5
+completedTime, 3.959997
+NewFloor
+IsShrinking
+Seed, 8986
+Total Session Time, 78.686
+Rooms Generated
+Expected Time In All Rooms, 25
+Total Time Spent In All Rooms, 78.50076
+Number Of Rooms Past Expected Time, 3
+name, PuzzleRoom
+branchDepth, 7
+expectedTime, 5
+completedTime, 48.02057
+name, PuzzleRoom
+branchDepth, 6
+expectedTime, 5
+completedTime, 6.219995
+name, PuzzleRoom
+branchDepth, 4
+expectedTime, 5
+completedTime, 16.82019
+name, BigShooterRoom
+branchDepth, 0
+expectedTime, 5
+completedTime, 3.479997
+name, BigRoomPlatform
+branchDepth, -2
+expectedTime, 5
+completedTime, 3.959997
+NewFloor
+IsShrinking
+Seed, 8986
+Total Session Time, 78.686
+Rooms Generated
+Expected Time In All Rooms, 25
+Total Time Spent In All Rooms, 157.0015
+Number Of Rooms Past Expected Time, 5
+name, PuzzleRoom
+branchDepth, 7
+expectedTime, 5
+completedTime, 119.0813
+name, PuzzleRoom
+branchDepth, 6
+expectedTime, 5
+completedTime, 6.219995
+name, PuzzleRoom
+branchDepth, 4
+expectedTime, 5
+completedTime, 16.82019
+name, BigShooterRoom
+branchDepth, 0
+expectedTime, 5
+completedTime, 6.959995
+name, BigRoomPlatform
+branchDepth, -2
+expectedTime, 5
+completedTime, 7.919994
